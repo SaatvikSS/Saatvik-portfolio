@@ -90,11 +90,7 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
       },
-      {
-        name: "Google Colab",
-        image:
-          "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
-      },
+      
       {
         name: "Sk Learn Kit",
         image:
@@ -246,7 +242,7 @@ export const projects = [
     description:
       "Here is a simple Sudoku Solver project made using HTML,CSS,JS and REACTJS",
     image:
-      "https://private-user-images.githubusercontent.com/68585473/305403109-8b25cbc3-e6ec-461b-9ac0-f2a01de7b423.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgwODQwNDEsIm5iZiI6MTcwODA4Mzc0MSwicGF0aCI6Ii82ODU4NTQ3My8zMDU0MDMxMDktOGIyNWNiYzMtZTZlYy00NjFiLTlhYzAtZjJhMDFkZTdiNDIzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE2VDExNDIyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmMjQyNGUzNzVjZTU0ZGRlMjAwZTkyNGMxNWNmNWMwMjFkNmI3Njk1MzA2YjYyZDA0ZDY0YTI5NWJmMjlmMTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.gPWcGubztnxgyJSkL7eXrFsdQKrYMZPwM09CtC36JhE",
+      "https://private-user-images.githubusercontent.com/68585473/305403109-8b25cbc3-e6ec-461b-9ac0-f2a01de7b423.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg3ODY5MzksIm5iZiI6MTcwODc4NjYzOSwicGF0aCI6Ii82ODU4NTQ3My8zMDU0MDMxMDktOGIyNWNiYzMtZTZlYy00NjFiLTlhYzAtZjJhMDFkZTdiNDIzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI0VDE0NTcxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0N2YzOGYxZmExYjBkZmYyMTcwODM5MmEzMWY3ZWU2ZjNmOTNhNmVhZWVlZDI1NzcwNWFjZGRmYjZiMzFkMDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.PsZ2DsQgoZHyvB3_hJUaQAX_08Dyd-cHbspLxjpd91E",
     tags: [
       "React Js",
       "HTML",
@@ -263,7 +259,7 @@ export const projects = [
     description:
       "Here is another simple project on the game TIC TAC TOE made using HTML,CSS,JS and REACTJS",
     image:
-      "https://private-user-images.githubusercontent.com/68585473/305354562-829c97c9-d0f8-41e5-aff4-60397c986d1b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgwNzMyNjUsIm5iZiI6MTcwODA3Mjk2NSwicGF0aCI6Ii82ODU4NTQ3My8zMDUzNTQ1NjItODI5Yzk3YzktZDBmOC00MWU1LWFmZjQtNjAzOTdjOTg2ZDFiLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE2VDA4NDI0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4MmZiZTY5YzU1MGVkZDY4Y2ZkZmU2NDZlNGI4NDZmZmViMmEyMjc0OWYyYmFiNzU4NmFjYTI4MzE0NThhZmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2d4DSKW2dlRnZTMQTk_wey9HABuFN1y-byz-8LAo7WU",
+      "https://private-user-images.githubusercontent.com/68585473/305354562-829c97c9-d0f8-41e5-aff4-60397c986d1b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg3ODY5MTIsIm5iZiI6MTcwODc4NjYxMiwicGF0aCI6Ii82ODU4NTQ3My8zMDUzNTQ1NjItODI5Yzk3YzktZDBmOC00MWU1LWFmZjQtNjAzOTdjOTg2ZDFiLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI0VDE0NTY1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkYmFmODFmZGMwMjVjMGM0MDMxZmRjZjNlYmM1ODZjMTZmNjcyZjZmOTkyN2M4MTVlNDUyYWU4ZDBjZjQyYjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ifhzwTo7HE9-M4G1pp8wW5CTaHe9LndqDEeo6HQyA2o",
     tags: [
       "HTML",
       "CSS",
